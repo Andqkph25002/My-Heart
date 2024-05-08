@@ -25,6 +25,7 @@ body{
     border-bottom: 1px solid rgba(255, 255, 255, .05);
 }
 .heart{
+    margin-top: 80px;
     position: relative;
     width: 312px;
     height: 300px;
